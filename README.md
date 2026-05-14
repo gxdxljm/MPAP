@@ -10,5 +10,5 @@ This repository proposes a Multi-layer Perceptron with Attention Pooling (MPAP) 
 4. [Sample Collection](02_behaviour_gen.py)
 5. [Ranknet Training and Ranknet_with_pinfo Traning](03_train_ranknet_with_pinfo.py)
 6. [Test](04_test_main.py)
-<img src="graphics/MLP_architecture.png" width=80% height=80%>
-<img src="graphics/MPAP_architecture.png" width=80% height=80%>
+<img src="graphics/MLP_architecture.png" width=10% height=10%>
+<img src="graphics/MPAP_architecture.png" width=10% height=10%>
