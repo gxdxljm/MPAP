@@ -32,7 +32,7 @@ We use **PySCIPOpt 6.0.0** (under the **MIT license**), which is the Python inte
 The official repository is available at: [https://github.com/scipopt/PySCIPOpt](https://github.com/scipopt/PySCIPOpt)
 Once the `SCIPOPTDIR` environment variable has been set (as described in the previous section), you can install our customized version, **`PySCIPOpt-6.0.0-for-PGNN`**, using the `pip` tool:
 ```bash
-cd ../PySCIPOpt-6.0.0-for-PGNN
+cd ../PySCIPOpt-6.0.0-for-MPAP
 pip install .
 ```
 In this customized version, our custom SCIP functions, feature extraction, and label capture routines are defined in `src/pyscipopt/scip.pxi` and `src/pyscipopt/scip.pxd`.
