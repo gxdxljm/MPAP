@@ -4,7 +4,7 @@ This repository proposes a Multi-layer Perceptron with Attention Pooling (MPAP) 
 
 ---
 ## Table of Contents
-1. [Environment and Dependencies](./Environment and Dependencies/install.md)
+1. [Environment and Dependencies](./Environment_and_Dependencies/install.md)
 2. [Physical Information and Optimal Solutions]
 3. [Sample Collection]
 4. [Ranknet Training and Ranknet_with_pinfo Traning]
