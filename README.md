@@ -3,3 +3,9 @@ Security-Constrained Unit Commitment (SCUC) is essential for day-ahead market cl
 This repository proposes a Multi-layer Perceptron with Attention Pooling (MPAP) node selection framework, which embeds the physical characteristics of integer variables through an attention pooling layer, thereby surpassing the baseline multi-layer perceptron (MLP) model.
 
 ---
+## Table of Contents
+1. [Environment and Dependencies]
+2. [Physical Information and Optimal Solutions]
+3. [Sample Collection]
+4. [Ranknet Training and Ranknet_with_pinfo Traning]
+5. [Test]
