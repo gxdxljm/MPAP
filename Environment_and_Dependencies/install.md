@@ -30,7 +30,7 @@ pip install "scipy>=1.13.0" pandas openpyxl matplotlib tqdm pyomo tensorboard
 ## Build PySCIPOpt from Source
 We use **PySCIPOpt 6.0.0** (under the **MIT license**), which is the Python interface for the SCIP Optimization Suite. 
 The official repository is available at: [https://github.com/scipopt/PySCIPOpt](https://github.com/scipopt/PySCIPOpt)
-Once the `SCIPOPTDIR` environment variable has been set (as described in the previous section), you can install our customized version, **`PySCIPOpt-6.0.0-for-PGNN`**, using the `pip` tool:
+Once the `SCIPOPTDIR` environment variable has been set (as described in the previous section), you can install our customized version, **`PySCIPOpt-6.0.0-for-MPAP`**, using the `pip` tool:
 ```bash
 cd ../PySCIPOpt-6.0.0-for-MPAP
 pip install .
